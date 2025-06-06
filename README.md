@@ -16,4 +16,3 @@ A simple command-line calculator that helps users fairly split a bill and tip am
 
 - ✅ Prompts user for total bill, number of people, and desired tip percentage  
 - ✅ Calculates per-person share, including the tip
-- 
