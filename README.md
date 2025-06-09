@@ -6,13 +6,17 @@ Welcome to PythonProjects: My personal collection of Python projects aimed at st
 
 1. 🎸 Band Name Generator
 A fun, interactive Python script that suggests a band name based on user input.
-
 - ✅ Uses `input()` and string manipulation  
-
 ---
 
 2. 💰 Split Bill and Tip Calculator
 A simple command-line calculator that helps users fairly split a bill and tip among multiple people.
-
 - ✅ Prompts user for total bill, number of people, and desired tip percentage  
 - ✅ Calculates per-person share, including the tip
+---
+
+3. 🗺️ Game – Find the Treasure!
+A short and fun text-based adventure game where the player searches for treasure by making choices.
+- ✅ Demonstrates conditional logic and basic game flow using if-elif-else
+- ✅ Helps practice user interaction and program control structures
+---
