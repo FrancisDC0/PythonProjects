@@ -27,3 +27,10 @@ A classic game of Rock, Paper, Scissors against the computer.
 - ✅ Utilizes lists to store game options [rock, paper, scissors] 
 - ✅ Reinforces conditionals and logic comparison
 ---
+
+5. 🔐 Secured Password Generator
+A secure password generator that creates random passwords based on user preferences for length and complexity.
+✅ Uses lists to store character sets (letters, numbers, symbols)
+✅ Utilizes the random module to shuffle and select characters
+✅ Employs for loops for iterative password assembly
+---
